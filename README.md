@@ -1,1 +1,1 @@
-# shopping-bill
+shopping bill calculator
